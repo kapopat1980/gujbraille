@@ -1,0 +1,9 @@
+numpy>=1.24
+opencv-python-headless>=4.8
+scikit-learn>=1.3
+scikit-image>=0.21
+scipy>=1.10
+tensorflow>=2.15
+pytest>=7
+pymupdf>=1.23
+pillow>=9

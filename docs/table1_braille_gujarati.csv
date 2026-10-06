@@ -1,0 +1,70 @@
+class,gujarati,unicode,braille,dots
+Vowel,અ,U+0A85,⠁,dots 1
+Vowel,આ / ા,U+0A86 U+0ABE,⠜,dots 3-4-5
+Vowel,ઇ / િ,U+0A87 U+0ABF,⠊,dots 2-4
+Vowel,ઈ / ી,U+0A88 U+0AC0,⠔,dots 3-5
+Vowel,ઉ / ુ,U+0A89 U+0AC1,⠥,dots 1-3-6
+Vowel,ઊ / ૂ,U+0A8A U+0AC2,⠳,dots 1-2-5-6
+Vowel,ઋ / ૃ,U+0A8B U+0AC3,⠐⠗,dots 5 + dots 1-2-3-5
+Vowel,ઍ / ૅ,U+0A8D U+0AC5,⠢,dots 2-6
+Vowel,એ / ે,U+0A8F U+0AC7,⠑,dots 1-5
+Vowel,ઐ / ૈ,U+0A90 U+0AC8,⠌,dots 3-4
+Vowel,ઑ / ૉ,U+0A91 U+0AC9,⠭,dots 1-3-4-6
+Vowel,ઓ / ો,U+0A93 U+0ACB,⠕,dots 1-3-5
+Vowel,ઔ / ૌ,U+0A94 U+0ACC,⠪,dots 2-4-6
+Consonant,ક,U+0A95,⠅,dots 1-3
+Consonant,ખ,U+0A96,⠨,dots 4-6
+Consonant,ગ,U+0A97,⠛,dots 1-2-4-5
+Consonant,ઘ,U+0A98,⠣,dots 1-2-6
+Consonant,ઙ,U+0A99,⠬,dots 3-4-6
+Consonant,ચ,U+0A9A,⠉,dots 1-4
+Consonant,છ,U+0A9B,⠡,dots 1-6
+Consonant,જ,U+0A9C,⠚,dots 2-4-5
+Consonant,ઝ,U+0A9D,⠴,dots 3-5-6
+Consonant,ઞ,U+0A9E,⠒,dots 2-5
+Consonant,ટ,U+0A9F,⠾,dots 2-3-4-5-6
+Consonant,ઠ,U+0AA0,⠺,dots 2-4-5-6
+Consonant,ડ,U+0AA1,⠫,dots 1-2-4-6
+Consonant,ઢ,U+0AA2,⠿,dots 1-2-3-4-5-6
+Consonant,ણ,U+0AA3,⠼,dots 3-4-5-6
+Consonant,ત,U+0AA4,⠞,dots 2-3-4-5
+Consonant,થ,U+0AA5,⠹,dots 1-4-5-6
+Consonant,દ,U+0AA6,⠙,dots 1-4-5
+Consonant,ધ,U+0AA7,⠮,dots 2-3-4-6
+Consonant,ન,U+0AA8,⠝,dots 1-3-4-5
+Consonant,પ,U+0AAA,⠏,dots 1-2-3-4
+Consonant,ફ,U+0AAB,⠖,dots 2-3-5
+Consonant,બ,U+0AAC,⠃,dots 1-2
+Consonant,ભ,U+0AAD,⠘,dots 4-5
+Consonant,મ,U+0AAE,⠍,dots 1-3-4
+Consonant,ય,U+0AAF,⠽,dots 1-3-4-5-6
+Consonant,ર,U+0AB0,⠗,dots 1-2-3-5
+Consonant,લ,U+0AB2,⠇,dots 1-2-3
+Consonant,વ,U+0AB5,⠧,dots 1-2-3-6
+Consonant,શ,U+0AB6,⠩,dots 1-4-6
+Consonant,ષ,U+0AB7,⠯,dots 1-2-3-4-6
+Consonant,સ,U+0AB8,⠎,dots 2-3-4
+Consonant,હ,U+0AB9,⠓,dots 1-2-5
+Consonant,ળ,U+0AB3,⠸,dots 4-5-6
+Conjunct,ક્ષ,U+0A95 U+0ACD U+0AB7,⠟,dots 1-2-3-4-5
+Conjunct,જ્ઞ,U+0A9C U+0ACD U+0A9E,⠱,dots 1-5-6
+Sign,્,U+0ACD,⠈,dots 4
+Sign,ં,U+0A82,⠰,dots 5-6
+Sign,ઃ,U+0A83,⠠,dots 6
+Sign,ઁ,U+0A81,⠄,dots 3
+Number sign,—,—,⠼,dots 3-4-5-6
+Digit,૧,U+0AE7,⠼⠁,(num) dots 1
+Digit,૨,U+0AE8,⠼⠃,(num) dots 1-2
+Digit,૩,U+0AE9,⠼⠉,(num) dots 1-4
+Digit,૪,U+0AEA,⠼⠙,(num) dots 1-4-5
+Digit,૫,U+0AEB,⠼⠑,(num) dots 1-5
+Digit,૬,U+0AEC,⠼⠋,(num) dots 1-2-4
+Digit,૭,U+0AED,⠼⠛,(num) dots 1-2-4-5
+Digit,૮,U+0AEE,⠼⠓,(num) dots 1-2-5
+Digit,૯,U+0AEF,⠼⠊,(num) dots 2-4
+Digit,૦,U+0AE6,⠼⠚,(num) dots 2-4-5
+Punctuation,.,U+002E,⠲,dots 2-5-6
+Punctuation,",",U+002C,⠂,dots 2
+Punctuation,?,U+003F,⠦,dots 2-3-6
+Punctuation,;,U+003B,⠆,dots 2-3
+Punctuation,-,U+002D,⠤,dots 3-6
